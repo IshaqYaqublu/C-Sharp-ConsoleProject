@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.exe
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.dll
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.dll
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Cosole Project\ConsoleProject\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.genruntimeconfig.cache
